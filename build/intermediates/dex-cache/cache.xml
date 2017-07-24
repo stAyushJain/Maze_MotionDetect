@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/keerthiacharya/Downloads/MotionDetect/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="35139989882cb78d798410f7985b261f1d09c086">
+        <dex dex="/Users/keerthiacharya/Downloads/MotionDetect/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_255cd296148ab6cd0f12bf1702a22dc641c0b789/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/keerthiacharya/Downloads/MotionDetect/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/keerthiacharya/Downloads/MotionDetect/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_67632c943594885017ae882bb4cc4d1784e167d6/classes.dex" />
+    </item>
+
+</items>
